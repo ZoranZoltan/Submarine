@@ -1,2 +1,3 @@
 # Submarine
 Igra podmornice (C#)...
+Da bi pokrenuo igru: dvoklik na folder BattleShip.UI, dvoklik na folder bin, dvoklik na folder Release i dvoklik na fajl BattleShip.UI.exe..
