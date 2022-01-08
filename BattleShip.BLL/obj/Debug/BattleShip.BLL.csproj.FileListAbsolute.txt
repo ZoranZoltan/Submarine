@@ -1,0 +1,5 @@
+C:\Users\mszku\Downloads\The-Battle-Ship\The-Battle-Ship-master\BattleShip.BLL\bin\Debug\BattleShip.BLL.dll
+C:\Users\mszku\Downloads\The-Battle-Ship\The-Battle-Ship-master\BattleShip.BLL\bin\Debug\BattleShip.BLL.pdb
+C:\Users\mszku\Downloads\The-Battle-Ship\The-Battle-Ship-master\BattleShip.BLL\obj\Debug\BattleShip.BLL.csprojResolveAssemblyReference.cache
+C:\Users\mszku\Downloads\The-Battle-Ship\The-Battle-Ship-master\BattleShip.BLL\obj\Debug\BattleShip.BLL.dll
+C:\Users\mszku\Downloads\The-Battle-Ship\The-Battle-Ship-master\BattleShip.BLL\obj\Debug\BattleShip.BLL.pdb

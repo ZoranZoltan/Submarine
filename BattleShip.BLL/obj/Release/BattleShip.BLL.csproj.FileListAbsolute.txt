@@ -1,0 +1,4 @@
+C:\Users\mszku\Downloads\The-Battle-Ship\The-Battle-Ship-master\BattleShip.BLL\bin\Release\BattleShip.BLL.dll
+C:\Users\mszku\Downloads\The-Battle-Ship\The-Battle-Ship-master\BattleShip.BLL\bin\Release\BattleShip.BLL.pdb
+C:\Users\mszku\Downloads\The-Battle-Ship\The-Battle-Ship-master\BattleShip.BLL\obj\Release\BattleShip.BLL.dll
+C:\Users\mszku\Downloads\The-Battle-Ship\The-Battle-Ship-master\BattleShip.BLL\obj\Release\BattleShip.BLL.pdb

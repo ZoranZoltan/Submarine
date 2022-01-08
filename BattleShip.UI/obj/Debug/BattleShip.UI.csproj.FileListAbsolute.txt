@@ -1,0 +1,8 @@
+C:\Users\mszku\Downloads\The-Battle-Ship\The-Battle-Ship-master\BattleShip.UI\bin\Debug\BattleShip.UI.exe.config
+C:\Users\mszku\Downloads\The-Battle-Ship\The-Battle-Ship-master\BattleShip.UI\bin\Debug\BattleShip.UI.exe
+C:\Users\mszku\Downloads\The-Battle-Ship\The-Battle-Ship-master\BattleShip.UI\bin\Debug\BattleShip.UI.pdb
+C:\Users\mszku\Downloads\The-Battle-Ship\The-Battle-Ship-master\BattleShip.UI\bin\Debug\BattleShip.BLL.dll
+C:\Users\mszku\Downloads\The-Battle-Ship\The-Battle-Ship-master\BattleShip.UI\bin\Debug\BattleShip.BLL.pdb
+C:\Users\mszku\Downloads\The-Battle-Ship\The-Battle-Ship-master\BattleShip.UI\obj\Debug\BattleShip.UI.csprojResolveAssemblyReference.cache
+C:\Users\mszku\Downloads\The-Battle-Ship\The-Battle-Ship-master\BattleShip.UI\obj\Debug\BattleShip.UI.exe
+C:\Users\mszku\Downloads\The-Battle-Ship\The-Battle-Ship-master\BattleShip.UI\obj\Debug\BattleShip.UI.pdb

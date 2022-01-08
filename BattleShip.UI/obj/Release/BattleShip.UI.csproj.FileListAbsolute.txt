@@ -1,0 +1,16 @@
+C:\Users\mszku\Downloads\The-Battle-Ship\The-Battle-Ship-master\BattleShip.UI\bin\Release\BattleShip.UI.exe.config
+C:\Users\mszku\Downloads\The-Battle-Ship\The-Battle-Ship-master\BattleShip.UI\bin\Release\BattleShip.UI.exe
+C:\Users\mszku\Downloads\The-Battle-Ship\The-Battle-Ship-master\BattleShip.UI\bin\Release\BattleShip.UI.pdb
+C:\Users\mszku\Downloads\The-Battle-Ship\The-Battle-Ship-master\BattleShip.UI\bin\Release\BattleShip.BLL.dll
+C:\Users\mszku\Downloads\The-Battle-Ship\The-Battle-Ship-master\BattleShip.UI\bin\Release\BattleShip.BLL.pdb
+C:\Users\mszku\Downloads\The-Battle-Ship\The-Battle-Ship-master\BattleShip.UI\obj\Release\BattleShip.UI.csprojResolveAssemblyReference.cache
+C:\Users\mszku\Downloads\The-Battle-Ship\The-Battle-Ship-master\BattleShip.UI\obj\Release\BattleShip.UI.exe
+C:\Users\mszku\Downloads\The-Battle-Ship\The-Battle-Ship-master\BattleShip.UI\obj\Release\BattleShip.UI.pdb
+E:\Projekti\The-Battle-Ship\The-Battle-Ship-master\BattleShip.UI\bin\Release\BattleShip.UI.exe.config
+E:\Projekti\The-Battle-Ship\The-Battle-Ship-master\BattleShip.UI\bin\Release\BattleShip.UI.exe
+E:\Projekti\The-Battle-Ship\The-Battle-Ship-master\BattleShip.UI\bin\Release\BattleShip.UI.pdb
+E:\Projekti\The-Battle-Ship\The-Battle-Ship-master\BattleShip.UI\bin\Release\BattleShip.BLL.dll
+E:\Projekti\The-Battle-Ship\The-Battle-Ship-master\BattleShip.UI\bin\Release\BattleShip.BLL.pdb
+E:\Projekti\The-Battle-Ship\The-Battle-Ship-master\BattleShip.UI\obj\Release\BattleShip.UI.csprojResolveAssemblyReference.cache
+E:\Projekti\The-Battle-Ship\The-Battle-Ship-master\BattleShip.UI\obj\Release\BattleShip.UI.exe
+E:\Projekti\The-Battle-Ship\The-Battle-Ship-master\BattleShip.UI\obj\Release\BattleShip.UI.pdb
